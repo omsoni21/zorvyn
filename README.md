@@ -84,7 +84,7 @@ A clean, modern financial dashboard built with React that helps users track inco
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/finance-dashboard.git
+git clone https://github.com/omsoni21/zorvyn.git finance-dashboard
 cd finance-dashboard
 npm install
 npm run dev
