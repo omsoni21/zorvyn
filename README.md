@@ -10,7 +10,7 @@ A clean, modern financial dashboard built with React that helps users track inco
 
 ## 📸 Preview
 
-![Finance Dashboard](./dashboard.png)
+![Finance Dashboard](./admin.png)
 
 ---
 
@@ -59,7 +59,7 @@ A clean, modern financial dashboard built with React that helps users track inco
 ## 📸 Screenshots
 
 ### 🖥️ Dashboard
-![Dashboard](./dashboard.png)
+![Dashboard](./view.png)
 
 ### 👨‍💼 Admin View
 ![Admin](./admin.png)
